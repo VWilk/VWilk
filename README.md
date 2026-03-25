@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer and reverse engineer from Ireland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vwilk&label=Profile%20views&color=0e75b6&style=flat" alt="vwilk" /> </p>
+
 - 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **Assembly**
@@ -18,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/6mEaVwtzRy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6mEaVwtzRy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
